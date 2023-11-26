@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahiiyh
+- 👋🏼 Hi, I’m @mahiiyh
 - 👀 I’m interested in AI, ML, Music, Medicine
 - 🌱 I’m currently learning Computer Science as a first-year undergrad
 
