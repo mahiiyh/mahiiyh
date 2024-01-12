@@ -6,8 +6,9 @@
 [![X](https://img.shields.io/badge/Xwitter-black.svg?logo=X&logoColor=white)](https://x.com/mahiiyh)
 [![Youtube](https://img.shields.io/badge/Youtube-cd201f?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCCxCIiCXUr0A3RFF9CXAfcA)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wthmahii)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/wthmahii)
 
-- 💻 Aspiring computer science undergrad
+- 💻 An aspiring computer science undergrad
 - 🩺 Interested in Medicine
 - 🤖 AI & ML enthusiast
 - 🎤 A vocalist hoping to blend tech and music interests to drive social impact
