@@ -10,7 +10,7 @@
 
 - 💻 An aspiring computer science undergrad
 - 🩺 Interested in Medicine
-- 🤖 AI & ML enthusiast
+- 🤖 Robotics enthusiast
 - 🎤 A vocalist hoping to blend tech and music interests to drive social impact
 - 💡 Passionate about building little projects and learning by doing
 - 🏝️ From Sri Lanka 🇱🇰
