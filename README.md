@@ -1,29 +1,145 @@
-# 👋🏼 Hello there! I’m Mahima Sandaken
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahiiyh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahiiyh)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mahii8)
-[![X](https://img.shields.io/badge/Xwitter-black.svg?logo=X&logoColor=white)](https://x.com/mahiiyh)
-[![Youtube](https://img.shields.io/badge/Youtube-cd201f?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCCxCIiCXUr0A3RFF9CXAfcA)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wthmahii)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/wthmahii)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Undergrad;Software+Engineer;AI+Enthusiast;Automation+Advocate" alt="Typing SVG" />
 
-- 💻 An aspiring computer science undergrad
-- 🩺 Interested in Medicine
-- 🤖 Robotics enthusiast
-- 🎤 A vocalist hoping to blend tech and music interests to drive social impact
-- 💡 Passionate about building little projects and learning by doing
-- 🏝️ From Sri Lanka 🇱🇰
+<br/>
 
-![mahiiyh github stats](https://github-readme-stats.vercel.app/api?username=mahiiyh&&show_icons=true&title_color=ffffff&icon_color=0703e0&text_color=bcbafd&bg_color=010030&hide_border=true)
-![mahiiyh top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiyh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mahiiyh)
+[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/mahiiyh)
+[![Reddit](https://custom-icon-badges.demolab.com/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=fff)](https://reddit.com/user/mahii8)
+[![X](https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/mahiiyh)
+[![Youtube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/channel/UCCxCIiCXUr0A3RFF9CXAfcA)
+[![Medium](https://custom-icon-badges.demolab.com/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@wthmahii)
+[![HackerRank](https://custom-icon-badges.demolab.com/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000)](https://www.hackerrank.com/profile/wthmahii)
 
----
-[![](https://visitcount.itsvg.in/api?id=mahiiyh&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahiiyh) 
-<!---
-mahiiyh/mahiiyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+```typescript
+const mahima = {
+    location: "Colombo, Sri Lanka 🇱🇰",
+    interests: ["AI & Robotics", "System Architecture", "Music & Tech Fusion"],
+    background: "Bioscience → Software Engineering",
+    currentFocus: "System resilience patterns & architectural refactoring",
+    mindset: "Lazy enough to automate everything 🤖",
+    philosophy: "Building skills that stay valuable as technology changes",
+    
+    passions: {
+        tech: "Experimenting with cutting-edge AI & robotics",
+        creative: "Blending tech and music for social impact",
+        growth: "Deep-diving into scalable enterprise solutions",
+        automation: "Why do it twice when you can script it once? ⚡"
+    }
+};
+```
+
+<div align="center">
+
+> *"I choose a lazy person to do a hard job, because a lazy person will find an easy way to do it."*  
+> **— Bill Gates (probably)**
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frontend & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Databases
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<br/><br/>
+
+### 💭 *"I'm focused on building skills that stay valuable as technology changes:*  
+### *understanding systems deeply, breaking down complex ideas, and*  
+### *communicating them clearly to both people and machines."*
+
+<br/>
+
+**Working on projects that have clear purpose, make real difference,**  
+**and push me to grow; both as an engineer and as someone contributing**  
+**to the bigger picture of technology's role in the world.**
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahiiyh)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiiyh@proton.me)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahiiyh)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=mahiiyh&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### *"The best way to predict the future is to invent it."*
+
+</div>
